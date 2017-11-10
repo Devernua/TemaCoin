@@ -1,0 +1,6 @@
+media
+env
+db.*
+__pycache__
+*.swp
+*.pyc
